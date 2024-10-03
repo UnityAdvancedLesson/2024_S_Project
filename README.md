@@ -14,7 +14,7 @@
 
 <br><br>
 ## 資料
-- 用語集
+- [用語集](https://github.com/UnityAdvancedLesson/2024_S_Project/blob/main/%E7%94%A8%E8%AA%9E%E9%9B%86.md)
 - UnityC#とは
 - Unityビジュアルスクリプティングとは
 - [ベースプロジェクト](https://github.com/UnityAdvancedLesson/BaseProject)
