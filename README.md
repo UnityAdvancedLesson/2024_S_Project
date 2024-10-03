@@ -14,9 +14,9 @@
 
 <br><br>
 ## 資料
-- [用語集](https://github.com/UnityAdvancedLesson/2024_S_Project/blob/main/%E7%94%A8%E8%AA%9E%E9%9B%86.md)
-- UnityC#とは
-- Unityビジュアルスクリプティングとは
+- [用語集](https://github.com/UnityAdvancedLesson/BaseProject/blob/Documents/%E7%94%A8%E8%AA%9E%E9%9B%86.md)
+- [UnityC#とは](https://github.com/UnityAdvancedLesson/BaseProject/blob/Documents/UnityC%23%E3%81%A8%E3%81%AF.md)
+- [Unityビジュアルスクリプティングとは](https://github.com/UnityAdvancedLesson/BaseProject/blob/Documents/Unity%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF.md)
 - [ベースプロジェクト](https://github.com/UnityAdvancedLesson/BaseProject)
 - ミニゲームのベースプロジェクト
 - Discord
