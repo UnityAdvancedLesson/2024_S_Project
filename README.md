@@ -17,7 +17,7 @@
 - 用語集
 - UnityC#とは
 - Unityビジュアルスクリプティングとは
-- ベースプロジェクト
+- [ベースプロジェクト](https://github.com/UnityAdvancedLesson/BaseProject)
 - ミニゲームのベースプロジェクト
 - Discord
   
