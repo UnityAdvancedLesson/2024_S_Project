@@ -15,9 +15,10 @@
 - Discord
 <br><br>
 ## 提出先
-- Windowsビルド
-- WebGLビルド
-- 企画書
+- [Windowsビルド](https://drive.google.com/drive/folders/12xcJa-lr9gkOfNfLzm9MK1VFvCeh2ARY?usp=sharing)
+- [WebGLビルド](https://drive.google.com/drive/folders/144XjyezHUWu6-RE5XyoiUanMBE3jz6PS?usp=sharing)
+- [企画書](https://drive.google.com/drive/folders/1WXvHG6pZ0147IXDzG_TjsR8-hsY0BM-3?usp=sharing)
+- [その他](https://drive.google.com/drive/folders/1IrxExkLC-ibfCwIIPRIUXLRoM_Lcjdhj?usp=sharing)
 <br><br>
 ## 時間割
 | 時間  | 内容                                        |
