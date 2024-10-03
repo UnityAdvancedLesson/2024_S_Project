@@ -20,6 +20,7 @@
 - [ベースプロジェクト](https://github.com/UnityAdvancedLesson/BaseProject)
 - ミニゲームのベースプロジェクト
 - Discord
+  - 講座中に共有
   
 <br><br>
 ## 提出先リンク集
